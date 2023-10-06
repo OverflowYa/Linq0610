@@ -1,0 +1,7 @@
+C:\program1\Visual Studia1\cod11\Linq 45\Linq 45\bin\Debug\Linq 45.exe.config
+C:\program1\Visual Studia1\cod11\Linq 45\Linq 45\bin\Debug\Linq 45.exe
+C:\program1\Visual Studia1\cod11\Linq 45\Linq 45\bin\Debug\Linq 45.pdb
+C:\program1\Visual Studia1\cod11\Linq 45\Linq 45\obj\Debug\Linq 45.csproj.AssemblyReference.cache
+C:\program1\Visual Studia1\cod11\Linq 45\Linq 45\obj\Debug\Linq 45.csproj.CoreCompileInputs.cache
+C:\program1\Visual Studia1\cod11\Linq 45\Linq 45\obj\Debug\Linq 45.exe
+C:\program1\Visual Studia1\cod11\Linq 45\Linq 45\obj\Debug\Linq 45.pdb
