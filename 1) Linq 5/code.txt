@@ -1,0 +1,15 @@
+using System;
+using System.Linq;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        char c = 'C';
+        string[] a = { "Cats", "CogC", "Cows", "Cheetahs", "Cars" };
+
+        int count = a.Count(s => s.Length > 1 && s.StartsWith(c) && s.EndsWith(c));
+
+        Console.WriteLine("Количество элементов A, которые содержат более одного символа и при этом начинаются и оканчиваются символом C: " + count);
+    }
+}
