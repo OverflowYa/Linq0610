@@ -1,0 +1,7 @@
+C:\program1\Visual Studia1\cod11\Linq 4\Linq 4\bin\Debug\Linq 4.exe.config
+C:\program1\Visual Studia1\cod11\Linq 4\Linq 4\bin\Debug\Linq 4.exe
+C:\program1\Visual Studia1\cod11\Linq 4\Linq 4\bin\Debug\Linq 4.pdb
+C:\program1\Visual Studia1\cod11\Linq 4\Linq 4\obj\Debug\Linq 4.csproj.AssemblyReference.cache
+C:\program1\Visual Studia1\cod11\Linq 4\Linq 4\obj\Debug\Linq 4.csproj.CoreCompileInputs.cache
+C:\program1\Visual Studia1\cod11\Linq 4\Linq 4\obj\Debug\Linq 4.exe
+C:\program1\Visual Studia1\cod11\Linq 4\Linq 4\obj\Debug\Linq 4.pdb
