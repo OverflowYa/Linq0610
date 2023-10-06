@@ -1,0 +1,14 @@
+C:\program1\Visual Studia1\cod11\Linq5\Linq5\obj\Debug\Linq5.csproj.AssemblyReference.cache
+C:\program1\Visual Studia1\cod11\Linq5\Linq5\obj\Debug\Linq5.csproj.CoreCompileInputs.cache
+C:\program1\Visual Studia1\cod11\Linq5\Linq5\bin\Debug\Linq5.exe.config
+C:\program1\Visual Studia1\cod11\Linq5\Linq5\bin\Debug\Linq5.exe
+C:\program1\Visual Studia1\cod11\Linq5\Linq5\bin\Debug\Linq5.pdb
+C:\program1\Visual Studia1\cod11\Linq5\Linq5\obj\Debug\Linq5.exe
+C:\program1\Visual Studia1\cod11\Linq5\Linq5\obj\Debug\Linq5.pdb
+C:\Users\Vlad\Desktop\linq\3) Linq 33\Linq33\Linq5\bin\Debug\Linq5.exe.config
+C:\Users\Vlad\Desktop\linq\3) Linq 33\Linq33\Linq5\bin\Debug\Linq5.exe
+C:\Users\Vlad\Desktop\linq\3) Linq 33\Linq33\Linq5\bin\Debug\Linq5.pdb
+C:\Users\Vlad\Desktop\linq\3) Linq 33\Linq33\Linq5\obj\Debug\Linq5.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\linq\3) Linq 33\Linq33\Linq5\obj\Debug\Linq5.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\linq\3) Linq 33\Linq33\Linq5\obj\Debug\Linq5.exe
+C:\Users\Vlad\Desktop\linq\3) Linq 33\Linq33\Linq5\obj\Debug\Linq5.pdb
